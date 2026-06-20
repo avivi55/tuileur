@@ -7,4 +7,5 @@ license = "Unlicense"
 description = "A somewhat random tiling engine heavely inspired by Jetbrain's CAI Tiler"
 categories = ["fun", "visualization"]
 compiler = "0.14.2"
-exclude = ["/examples/", "/src/", "/scripts/", "/images/*", "!/images/quick.svg"]
+repository = "https://github.com/avivi55/tuileur/"
+exclude = ["/examples/", "/src/", "/scripts/", "/images/*", "!/images/quick.svg", "!/images/preview.png", "*zig*"]

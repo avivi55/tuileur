@@ -1,4 +1,4 @@
-#import "lib.typ": tiler, use_tileset, palettes, make_palette
+#import "../lib.typ": tiler, use_tileset, palettes, make_palette
 
 
 #figure(

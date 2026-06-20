@@ -1,0 +1,9 @@
+[package]
+name = "tuileur"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Jacques Soghomonyan <https://github.com/avivi55>"]
+license = "Unlicense"
+description = "A somewhat random tiling engine heavely inspired by Jetbrain's CAI Tiler"
+categories = ["fun", "visualization"]
+compiler = "0.14.2"

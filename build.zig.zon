@@ -1,0 +1,28 @@
+.{
+    .name = .tuileur,
+    .version = "0.1.0",
+    .fingerprint = 0x99297edbe1972975,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+        .typ = .{
+            .url = "git+https://github.com/peterhellberg/typ.git#47778ce043f55992c88b70cf1a39d28531997f49",
+            .hash = "typ-0.1.0-OaCu2AcSAABqi51f_LIvJuDAgK6NcuUn9aY1ZzhciVf0",
+        },
+        .xml = .{
+            .url = "git+https://github.com/ianprime0509/zig-xml.git#b97f2ab4868ae3cac9902b33a40d3f31d2df739d",
+            .hash = "xml-0.2.0-ZTbP3yI6AgB9Rpd2hQrueO63ib0Bm6mQiL_WB1t7JAmP",
+        },
+        .zbor = .{
+            .url = "https://codeberg.org/r4gus/zbor/archive/0.21.0.tar.gz",
+            .hash = "zbor-0.21.0-kr-CoMd7AwAj1t5CJoR8CoYr9CLQCNwBTNZEYYE9SBk0",
+        },
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "tiles",
+        "LICENSE",
+        "README.md",
+    },
+}

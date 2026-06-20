@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <g>
+    <polygon points="0 80 16 0 32 0 16 80 0 80"/>
+    <polygon points="32 80 48 0 64 0 48 80 32 80"/>
+    <polygon points="64 80 80 0 80 80 64 80"/>
+  </g>
+</svg>

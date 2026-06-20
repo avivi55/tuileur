@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.714 79.742">
+  <g>
+    <g>
+      <rect x="36.775" y="1.267" width="6.08" height="6.08" transform="translate(8.616 29.415) rotate(-45)"/>
+      <g>
+        <rect x="54.526" y="1.259" width="6.08" height="6.08" transform="translate(13.821 41.965) rotate(-45)"/>
+        <rect x="45.65" y="1.263" width="6.08" height="6.08" transform="translate(11.218 35.69) rotate(-45)"/>
+        <rect x="63.459" y="1.345" width="6.08" height="6.08" transform="translate(16.377 48.306) rotate(-45)"/>
+        <rect x="72.335" y="1.341" width="6.08" height="6.08" transform="translate(18.979 54.581) rotate(-45)"/>
+      </g>
+    </g>
+    <g>
+      <rect x="54.587" y="10.192" width="6.08" height="6.08" transform="translate(7.522 44.624) rotate(-45)"/>
+      <rect x="45.655" y="10.139" width="6.08" height="6.08" transform="translate(4.943 38.292) rotate(-45)"/>
+      <rect x="63.463" y="10.22" width="6.08" height="6.08" transform="translate(10.102 50.908) rotate(-45)"/>
+      <rect x="72.339" y="10.216" width="6.08" height="6.08" transform="translate(12.704 57.183) rotate(-45)"/>
+    </g>
+    <g>
+      <rect x="54.501" y="19.124" width="6.08" height="6.08" transform="translate(1.181 47.179) rotate(-45)"/>
+      <rect x="63.49" y="19.153" width="6.08" height="6.08" transform="translate(3.794 53.544) rotate(-45)"/>
+      <rect x="72.366" y="19.149" width="6.08" height="6.08" transform="translate(6.396 59.819) rotate(-45)"/>
+    </g>
+    <g>
+      <rect x="63.494" y="28.029" width="6.08" height="6.08" transform="translate(-2.481 56.147) rotate(-45)"/>
+      <rect x="72.37" y="28.024" width="6.08" height="6.08" transform="translate(0.121 62.422) rotate(-45)"/>
+    </g>
+    <rect x="72.375" y="36.9" width="6.08" height="6.08" transform="translate(-6.154 65.024) rotate(-45)"/>
+    <rect x="1.259" y="45.776" width="6.08" height="6.08" transform="translate(-33.259 17.338) rotate(-45)"/>
+    <g>
+      <rect x="10.139" y="54.647" width="6.08" height="6.08" transform="translate(-36.931 26.215) rotate(-45)"/>
+      <rect x="1.263" y="54.651" width="6.08" height="6.08" transform="translate(-39.534 19.94) rotate(-45)"/>
+    </g>
+    <g>
+      <rect x="19.019" y="63.519" width="6.08" height="6.08" transform="translate(-40.603 35.093) rotate(-45)"/>
+      <rect x="10.143" y="63.523" width="6.08" height="6.08" transform="translate(-43.206 28.818) rotate(-45)"/>
+      <rect x="1.267" y="63.527" width="6.08" height="6.08" transform="translate(-45.808 22.543) rotate(-45)"/>
+    </g>
+    <g>
+      <rect x="19.023" y="72.395" width="6.08" height="6.08" transform="translate(-46.878 37.695) rotate(-45)"/>
+      <rect x="10.147" y="72.399" width="6.08" height="6.08" transform="translate(-49.481 31.42) rotate(-45)"/>
+      <rect x="27.899" y="72.391" width="6.08" height="6.08" transform="translate(-44.276 43.97) rotate(-45)"/>
+      <rect x="1.272" y="72.403" width="6.08" height="6.08" transform="translate(-52.083 25.145) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

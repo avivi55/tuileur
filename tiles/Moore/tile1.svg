@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <g>
+    <polygon points="0 0 80 80 0 80 0 0"/>
+    <path d="M80,48V32A31.966,31.966,0,0,1,48,0H32A48.012,48.012,0,0,0,80,48Z"/>
+  </g>
+</svg>

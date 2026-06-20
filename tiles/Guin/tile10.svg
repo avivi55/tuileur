@@ -1,0 +1,45 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g>
+    <g>
+      <rect x="1.73195" y="46.18141" width="7.6378" height="7.6378" transform="translate(-33.72969 18.56973) rotate(-44.9999)"/>
+      <g>
+        <rect x="1.73139" y="23.95676" width="7.6378" height="7.6378" transform="translate(-18.01469 12.05991) rotate(-44.9999)"/>
+        <rect x="1.73138" y="35.06908" width="7.6378" height="7.6378" transform="translate(-25.87228 15.31461) rotate(-44.9999)"/>
+        <rect x="1.73169" y="12.84443" width="7.6378" height="7.6378" transform="translate(-10.15701 8.80541) rotate(-44.9999)"/>
+        <rect x="1.732" y="1.7321" width="7.6378" height="7.6378" transform="translate(-2.29933 5.55091) rotate(-44.9999)"/>
+      </g>
+    </g>
+    <g>
+      <rect x="12.84379" y="23.95677" width="7.6378" height="7.6378" transform="translate(-14.75996 19.91755) rotate(-44.9999)"/>
+      <rect x="12.84378" y="35.0691" width="7.6378" height="7.6378" transform="translate(-22.61755 23.17225) rotate(-44.9999)"/>
+      <rect x="12.84409" y="12.84445" width="7.6378" height="7.6378" transform="translate(-6.90229 16.66305) rotate(-44.9999)"/>
+      <rect x="12.8444" y="1.73212" width="7.6378" height="7.6378" transform="translate(0.95539 13.40856) rotate(-44.9999)"/>
+    </g>
+    <g>
+      <rect x="23.95619" y="23.95679" width="7.6378" height="7.6378" transform="translate(-11.50524 27.7752) rotate(-44.9999)"/>
+      <rect x="23.95649" y="12.84446" width="7.6378" height="7.6378" transform="translate(-3.64757 24.5207) rotate(-44.9999)"/>
+      <rect x="23.9568" y="1.73214" width="7.6378" height="7.6378" transform="translate(4.21011 21.2662) rotate(-44.9999)"/>
+    </g>
+    <g>
+      <rect x="35.06889" y="12.84448" width="7.6378" height="7.6378" transform="translate(-0.39285 32.37834) rotate(-44.9999)"/>
+      <rect x="35.0692" y="1.73216" width="7.6378" height="7.6378" transform="translate(7.46483 29.12385) rotate(-44.9999)"/>
+    </g>
+    <rect x="46.1816" y="1.73217" width="7.6378" height="7.6378" transform="translate(10.71955 36.98149) rotate(-44.9999)"/>
+    <rect x="57.29362" y="90.6308" width="7.6378" height="7.6378" transform="translate(-48.88654 70.87655) rotate(-44.9999)"/>
+    <g>
+      <rect x="68.40574" y="79.51849" width="7.6378" height="7.6378" transform="translate(-37.77431 75.47929) rotate(-44.9999)"/>
+      <rect x="68.40602" y="90.63081" width="7.6378" height="7.6378" transform="translate(-45.63182 78.7342) rotate(-44.9999)"/>
+    </g>
+    <g>
+      <rect x="79.51815" y="68.40618" width="7.6378" height="7.6378" transform="translate(-26.662 80.08223) rotate(-44.9999)"/>
+      <rect x="79.51814" y="79.5185" width="7.6378" height="7.6378" transform="translate(-34.51959 83.33693) rotate(-44.9999)"/>
+      <rect x="79.51842" y="90.63083" width="7.6378" height="7.6378" transform="translate(-42.3771 86.59184) rotate(-44.9999)"/>
+    </g>
+    <g>
+      <rect x="90.63055" y="68.4062" width="7.6378" height="7.6378" transform="translate(-23.40728 87.93987) rotate(-44.9999)"/>
+      <rect x="90.63054" y="79.51852" width="7.6378" height="7.6378" transform="translate(-31.26487 91.19458) rotate(-44.9999)"/>
+      <rect x="90.63085" y="57.29387" width="7.6378" height="7.6378" transform="translate(-15.54961 84.68538) rotate(-44.9999)"/>
+      <rect x="90.63082" y="90.63085" width="7.6378" height="7.6378" transform="translate(-39.12238 94.44949) rotate(-44.9999)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+*.code-workspace
+zig-pkg/
+zig-out/
+.zig-cache/
+.zigversion
+tests/
+# not allowed to make them public :(
+tiles/rapport_stage_pfe
